@@ -1,0 +1,52 @@
+@media screen and (max-width: 550px) {
+    header {
+        background-color: black;
+
+    }
+    body {
+        font-family: "Arial", "sans-serif";
+        margin: auto;
+        width: 200px;
+    }
+    nav {
+        background-color: black;
+        width: 200px;
+        text-align: center;
+    }
+    a {
+        color: white;
+        text-decoration: none;
+    }
+    main {
+
+    }
+    img {
+        width: 200px;
+        height: auto;
+    }
+    img {
+
+    }
+    th {
+        border-bottom: 1px solid black;
+        padding-bottom: 5px;
+        font-weight: bold;
+    }
+    td {
+        border-bottom: 1px solid black;
+        padding-bottom: 5px;
+
+    }
+    div.menu3 {
+        align-content: center;
+        display: inline-block;
+        margin: auto;
+        width: 200px;
+    }
+    h2 {
+        font-weight: bold;
+    }
+}
+
+
+
