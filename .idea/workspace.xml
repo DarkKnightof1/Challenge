@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aa0f990-71b8-4e3f-8026-434d7dcb0f61" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dreadlocksmobile.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Openingstijdenmobile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Productenmobile.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Salonsmobile.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Indexmobile.html" afterPath="$PROJECT_DIR$/Indexmobile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Producten.html" afterPath="$PROJECT_DIR$/Producten.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Openingstijdenmobile.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Openingstijdenmobile.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Openingstijdenmobile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2002">
-              <caret line="102" column="9" lean-forward="true" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
+            <state relative-caret-position="91">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dreadlocksmobile.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dreadlocksmobile.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dreadlocksmobile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            <state relative-caret-position="168">
+              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -150,10 +146,10 @@
         <option value="$PROJECT_DIR$/Producten.html" />
         <option value="$PROJECT_DIR$/Salons.html" />
         <option value="$PROJECT_DIR$/Indexmobile.html" />
-        <option value="$PROJECT_DIR$/Openingstijdenmobile.html" />
         <option value="$PROJECT_DIR$/Salonsmobile.html" />
         <option value="$PROJECT_DIR$/Dreadlocksmobile.html" />
         <option value="$PROJECT_DIR$/Productenmobile.html" />
+        <option value="$PROJECT_DIR$/Openingstijdenmobile.html" />
       </list>
     </option>
   </component>
@@ -251,7 +247,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506671291104</updated>
-      <workItem from="1506671292304" duration="13093000" />
+      <workItem from="1506671292304" duration="13153000" />
     </task>
     <task id="LOCAL-00001" summary="created index.html">
       <created>1506671762169</created>
@@ -386,11 +382,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506688738395</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="html 5 challenge opdracht 12 product css">
+      <created>1506689625131</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1506689625131</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13093000" />
+    <option name="totallyTimeSpent" value="13153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -435,7 +438,8 @@
     <MESSAGE value="html 5 challenge opdracht 10 tabel openingstijden" />
     <MESSAGE value="html 5 challenge opdracht 11 css" />
     <MESSAGE value="html 5 challenge opdracht 12 css" />
-    <option name="LAST_COMMIT_MESSAGE" value="html 5 challenge opdracht 12 css" />
+    <MESSAGE value="html 5 challenge opdracht 12 product css" />
+    <option name="LAST_COMMIT_MESSAGE" value="html 5 challenge opdracht 12 product css" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -573,18 +577,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Openingstijdenmobile.html">
+    <entry file="file://$PROJECT_DIR$/Dreadlocksmobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2002">
-          <caret line="102" column="9" lean-forward="true" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
+        <state relative-caret-position="168">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dreadlocksmobile.html">
+    <entry file="file://$PROJECT_DIR$/Openingstijdenmobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        <state relative-caret-position="91">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
